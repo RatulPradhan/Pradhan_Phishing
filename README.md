@@ -11,7 +11,8 @@ This project implements a lightweight machine‑learning pipeline to detect phis
 
 ## Project Structure
 
-- `Notebook.ipynb` – Main Jupyter notebook for EDA, modeling, and evaluation.
+- `Pradahan_Phishing.ipynb` – Main Jupyter notebook for EDA, modeling, and evaluation.
+- `Pradhan_Phishing_Doc` - Project write up and Summary
 - `README.md` – Project description and usage.
 
 ## Installation & Usage
